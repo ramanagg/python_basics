@@ -4,7 +4,7 @@ Welcome to the Python Practice Exercises repository! This repository contains va
 
 ## Topics Covered
 
-1. [Basic Python Exercises](basic_python_exercises)
+1. [Basic Syntax And Operations](basic_syntax_and_operations)
 2. [Loops](loops)
 3. [Object-Oriented Programming (OOP)](object_oriented_programming)
 4. [File Handling](file_handling)
