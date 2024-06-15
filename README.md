@@ -1,6 +1,6 @@
-# Python Practice Exercises
+# Basic Python Practice Exercises
 
-Welcome to the Python Practice Exercises repository! This repository contains various Python exercises to help you improve your programming skills. Each topic is organized into its own folder, with multiple examples and exercises.
+Welcome to the Basic Python Practice Exercises repository! This repository contains various Python exercises to help you improve your programming skills. Each topic is organized into its own folder, with multiple examples and exercises.
 
 ## Topics Covered
 
